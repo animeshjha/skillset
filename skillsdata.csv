@@ -1,0 +1,33 @@
+﻿id,value,color
+Animesh,
+Animesh.Programming,
+Animesh.Programming.Unity Game Engine,4,#808080
+Animesh.Programming.C#,4,#2E2575
+Animesh.Programming.HTML & CSS,3,#E54F24
+Animesh.Programming.SVG,1.5,#FF9900
+Animesh.Front-End.Bootstrap,3,#563B7E
+Animesh.Front-End.JavaScript World,
+Animesh.Front-End.JavaScript World.JavaScript,3,#D6BA33
+Animesh.Front-End.JavaScript World.JQuery,3,#1169AE
+Animesh.Front-End.JavaScript World.D3 js,2.5,#F6854D
+Animesh.Back-End,
+Animesh.Back-End.PHP,1.5,#617CBE
+Animesh.Back-End.C++,1,#0073AD
+Animesh.Back-End.SQL,1.5,#E58E00
+Animesh.Back-End.Java World,
+Animesh.Back-End.Java World.Java SE,3,#EB2C2F
+Animesh.Back-End.Java World.JSP,2,#EB2C2F
+Animesh.Back-End.Java World.Hibernate,2.5,#59666C
+Animesh.Back-End.Java World.Spring MVC / Boot,3,#6DB33F
+Animesh.Back-End.Java World.Spring Data,2.5,#6DB33F
+Animesh.Back-End.Java World.Spring Security,2.5,#5FA134
+Animesh.Back-End.Java World.Thymeleaf,3,#005F0F
+Animesh.Databases,
+Animesh.Databases.MySQL,2.5,#00618A
+Animesh.SysAdmin,
+Animesh.SysAdmin.VPS & SharedHost,2,#808080
+Animesh.SysAdmin.Linux,2.5,#040404
+Animesh.SysAdmin.Apache & Animeshcat,2,#CA212F
+Animesh.CMS,
+Animesh.CMS.Wordpress,1.5,#00A0D2
+Animesh.CMS.Drupal,1,#0678BE

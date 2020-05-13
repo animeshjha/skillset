@@ -1,0 +1,44 @@
+id,value,color
+AJ,
+AJ.Programming,
+AJ.Programming.Unity Game Engine,4.5, #4000ff
+AJ.Programming.C#,4, #3900e6
+AJ.Programming.C++,3,#3300cc
+AJ.Programming.Python,2.5, #2d00b3
+AJ.Programming.Unreal Engine,2, #200080
+AJ.Programming.MySQL,1,#13004d
+AJ.Project Management,
+AJ.Project Management.Excel,3.5,	#bf00ff
+AJ.Project Management.Agile/SCRUM,3,	#ac00e6
+AJ.Project Management.Trello,2,#9900cc
+AJ.Project Management.Harvest,2,	#600080
+AJ.Graphics,
+AJ.Graphics.2D,
+AJ.Graphics.2D.Adobe Creative Cloud (CC),4, #33cccc
+AJ.Graphics.3D,
+AJ.Graphics.3D.3Ds Max,3.5,#20B2AA	
+AJ.Graphics.3D.Rendering,3.0,#008B8B
+AJ.Graphics.3D.Cinema 4D,2.5,#008080
+AJ.Web Development,
+AJ.Web Development.JavaScript,
+AJ.Web Development.JavaScript.ECMAScript (JS),3,#6DB33F
+AJ.Web Development.JavaScript.JSON,3,#5FA134
+AJ.Web Development.HTML5,
+AJ.Web Development.HTML5.HTML & CSS,3,#005F0F
+AJ.Web Development.HTML5.WebGL,3,#005F0F
+AJ.Web Development.HTML5.CreateJS/EaselJS,2,#005F0F
+AJ.Source Control,
+AJ.Source Control.Unity Collaborate (Unity Engine),3.5,#F4A460
+AJ.Source Control.GIT,3,#cc6600
+AJ.Source Control.MercurialHG,2,#b35900
+AJ.Source Control.Tortoise SVN,2,#663300
+AJ.Hardware,
+AJ.Hardware.Desktop,4.5, #1E90FF
+AJ.Hardware.Virtual Reality (Rift), 2.0, 	#4169E1
+AJ.Hardware.AR, 1.0, #0000CD
+AJ.CMS,
+AJ.CMS.Wordpress,2,#003d99
+AJ.Operating Systems,
+AJ.Operating Systems.Windows,4,#454d54
+AJ.Operating Systems.Mac OS,3,#394046
+AJ.Operating Systems.Linux,2,#2e3338
